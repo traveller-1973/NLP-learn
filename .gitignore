@@ -1,0 +1,13 @@
+transformer/data/news-commentary-v13.zh-en.en
+
+transformer/data/news-commentary-v13.zh-en.zh
+
+transformer/__pycache__/
+
+microgard/__pycache__/
+
+gpt/__pycache__/
+
+llmintro.pdf
+
+.gitingore
